@@ -1,3 +1,5 @@
+#Inverta os primeiros k elementos de uma fila.
+
 def revert_first_k(queue, k):
     stack = Stack()
     for _ in range(k):
